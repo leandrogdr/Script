@@ -1,0 +1,8 @@
+{
+  "valida_pipeline": {
+	"name": "pip_",  
+    "description": "0123456789",
+    "timeout": "1.00:00:00",
+    "dict_names": "{'Lookup':'lk_','Copy':'cp_','Delete':'dl_','ExecuteDataFlow':'df_','ExecutePipeline':'pip_','DatabricksNotebook':'dtb_','IfCondition':'if_','ForEach':'ForEach_data'}"
+  }  
+}
